@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://g.page/r/CT747ALKjOiBEAE/review",
+      "permanent": false
+    },
+    {
+      "source": "/:path*",
+      "destination": "https://g.page/r/CT747ALKjOiBEAE/review",
+      "permanent": false
+    }
+  ]
+}
